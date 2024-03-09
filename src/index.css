@@ -1,0 +1,41 @@
+body {
+  margin: 0
+}
+
+.tasklist {
+  padding-left: 30px;
+}
+
+#addtask {
+  margin-left: 30px;
+}
+
+.newtask {
+  display: flex;
+}
+
+h1 {
+  margin-left: 30px;
+}
+
+.checkbox {
+  margin-right: 10px
+}
+
+.task {
+  display: flex;
+  align-items: center;
+}
+
+.description-container, .editdesc {
+  margin-left: 20px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.task {
+  padding-bottom: 5px;
+}
